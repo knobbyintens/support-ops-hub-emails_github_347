@@ -1,0 +1,9 @@
+account_id,company_name,email_domain,plan_tier,csm_name,region
+ACC-2041,Northwind Logistics,northwind-logistics.com,enterprise,Priya Raman,EMEA
+ACC-2042,Brightwave Analytics,brightwave.io,business,Daniel Osei,AMER
+ACC-2043,TinyCrate,tinycrate.co,starter,Mei Chen,APAC
+ACC-2044,FinchPay,finchpay.com,enterprise,Ana Sokolova,AMER
+ACC-2045,Lumen Health,lumenhealth.com,business,Daniel Osei,AMER
+ACC-2046,Quarrystone Labs,quarrystone.dev,enterprise,Priya Raman,EMEA
+ACC-2047,Kestrel Retail,kestrelretail.com,business,Mei Chen,APAC
+ACC-2048,Orbit Learning,orbitlearning.org,starter,Ana Sokolova,AMER
