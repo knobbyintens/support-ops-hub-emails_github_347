@@ -5,4 +5,4 @@ This repository holds the customer account registry and the support-case backlog
 ## Layout
 
 - `data/accounts.csv` — registered customer accounts, plan tier and owner
-- `data/open_cases.csv` — cases already logged by the support desk
+- `data/case_log.csv` — cases already logged by the support desk

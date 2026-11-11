@@ -1,0 +1,4 @@
+case_id,account_id,subject,status,opened_on
+CR-3098,ACC-2042,Scheduled maintenance follow-up,closed,2026-10-21
+CR-3106,ACC-2041,API timeouts on /orders endpoint,investigating,2026-11-05
+CR-3099,ACC-2045,Password reset emails not delivered,resolved,2026-10-30
